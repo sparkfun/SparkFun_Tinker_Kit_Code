@@ -1,11 +1,11 @@
 SparkFun Tinker Kit
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![SparkFun Tinker Kit](https://cdn.sparkfun.com//assets/parts/1/1/6/0/1/13930-01.jpg)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun Tinker Kit (KIT-13930)*](https://www.sparkfun.com/products/13930)
 
-<Basic description of the part.>
+The SparkFun Tinker Kit (STK) is a great way to get started with programming and hardware interaction with the Arduino programming language. The STK is our newest version of the former SparkFun Mini Inventor’s Kit, blended with elements of our educator MESA kit
 
 Repository Contents
 -------------------
