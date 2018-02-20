@@ -1,4 +1,4 @@
-SparkFun <PRODUCT NAME>
+SparkFun Tinker Kit
 ========================================
 
 ![SparkFun Part Name](URL for picture of part)
