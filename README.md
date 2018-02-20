@@ -5,7 +5,7 @@ SparkFun Tinker Kit
 
 [*SparkFun Tinker Kit (KIT-13930)*](https://www.sparkfun.com/products/13930)
 
-The SparkFun Tinker Kit (STK) is a great way to get started with programming and hardware interaction with the Arduino programming language. The STK is our newest version of the former SparkFun Mini Inventor’s Kit, blended with elements of our educator MESA kit
+The SparkFun Tinker Kit (STK) is a great way to get started with programming and hardware interaction with the Arduino programming language. The STK is our newest version of the former SparkFun Mini Inventor’s Kit, blended with elements of our educator MESA kit. This SparkFun Tinker Kit is your map for navigating the waters of beginning embedded electronics, robotics and citizen science using the SparkFun RedBoard while sticking to a strict budget.
 
 Repository Contents
 -------------------
