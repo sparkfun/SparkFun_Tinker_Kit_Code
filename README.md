@@ -13,11 +13,11 @@ Repository Contents
 
 Documentation
 --------------
-
+* **[Experiment Guide (RETIRED)](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-sparkfun-tinker-kit)** - Experiment Guide for Tinker Kit v1.0 .
 
 Product Versions
 ----------------
-* [KIT]()- Basic part and short description here
+* [KIT-14556](https://www.sparkfun.com/products/14556)- Basic part and short description here
 * [KIT-13930](https://www.sparkfun.com/products/13930)- Basic part and short description here
 
 
