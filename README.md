@@ -18,7 +18,7 @@ Product Versions
 
 Version History
 ---------------
-* [F1.0]() - SparkFun Tinker Kit v1.0
+* [vF1.0](https://github.com/sparkfun/SparkFun_Tinker_Kit_Code/releases/tag/vF1.0) - SparkFun Tinker Kit Firmware Version vF1.0 for the experiment guide. 
 
 License Information
 -------------------
