@@ -14,7 +14,7 @@ Documentation
 
 Product Versions
 ----------------
-* [KIT-14556](https://www.sparkfun.com/products/14556)- Sparkfun Tinker Kit. The updated kit includes the multicolored buttons, buzzer, switch, and the TB6612FNG Motor Driver Board instead of the SN754410 motor driver.
+* [KIT-14556](https://www.sparkfun.com/products/14556)- Sparkfun Tinker Kit. The updated kit includes the multicolored buttons, buzzer, switch, the TB6612FNG Motor Driver Board instead of the SN754410 motor driver, and the LED - RGB Diffused Common Cathode insead of the clear common cathode.
 * [KIT-13930](https://www.sparkfun.com/products/13930)- Tinker Kit
 
 
