@@ -10,7 +10,7 @@ The SparkFun Tinker Kit (STK) is a great way to get started with programming and
 Documentation
 --------------
 * **[Activity Guide](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-sparkfun-tinker-kit)** - Activity Guide for Tinker Kit.
-* **[Experiment Guide](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-sparkfun-tinker-kit)** - Experiment Guide for Tinker Kit.
+* **[Experiment Guide _(RETIRED)_](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-sparkfun-tinker-kit)** - Old experiment Guide for Tinker Kit.
 
 Product Versions
 ----------------
